@@ -2,9 +2,8 @@
 
 ## Integrantes
 
-PENDIENTE: escribir nombres completos antes de entregar.
-
-- Integrante 1: [Jorge Argueta]
+- Integrante 1: [Jorge Argueta, 20250362]
+- Integrante 2: [Jean Pierre Boburg, 20250516
 - Integrante 2: [ESCRIBIR NOMBRE COMPLETO AQUÍ]
 
 ## Problema que resuelve
@@ -114,3 +113,14 @@ MENU PRINCIPAL
 6. Cargar datos demo actualizados
 7. Salir
 ```
+
+
+## Demo visual complementaria
+
+Además del programa principal en Python, se incluye una demo visual complementaria creada en Lovable:
+
+https://financialapp123421.lovable.app
+
+El código principal evaluable está en Python y se ejecuta con:
+
+python main.py
