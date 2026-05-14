@@ -1,0 +1,62 @@
+{
+    "configuracion": {
+        "presupuesto_global": 5000.0,
+        "dia_corte": 1
+    },
+    "categorias": [
+        "Salud",
+        "Amigos",
+        "Comida",
+        "Educación",
+        "Transporte",
+        "Negocios",
+        "Familia",
+        "Ocio personal",
+        "Ropa y accesorios",
+        "Caridad"
+    ],
+    "gastos": [
+        {
+            "id": 1,
+            "monto": 125.5,
+            "categoria": "Comida",
+            "descripcion": "Supermercado semanal",
+            "fecha": "05/05/2026"
+        },
+        {
+            "id": 2,
+            "monto": 80.0,
+            "categoria": "Transporte",
+            "descripcion": "Gasolina",
+            "fecha": "03/05/2026"
+        },
+        {
+            "id": 3,
+            "monto": 210.75,
+            "categoria": "Salud",
+            "descripcion": "Medicina",
+            "fecha": "01/05/2026"
+        },
+        {
+            "id": 4,
+            "monto": 150.0,
+            "categoria": "Educación",
+            "descripcion": "Materiales de clase",
+            "fecha": "05/05/2026"
+        },
+        {
+            "id": 5,
+            "monto": 95.25,
+            "categoria": "Familia",
+            "descripcion": "Regalo familiar",
+            "fecha": "01/05/2026"
+        },
+        {
+            "id": 6,
+            "monto": 60.0,
+            "categoria": "Ocio personal",
+            "descripcion": "Cine",
+            "fecha": "03/05/2026"
+        }
+    ]
+}
