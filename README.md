@@ -4,7 +4,7 @@
 
 - Integrante 1: [Jorge Argueta, 20250362]
 - Integrante 2: [Jean Pierre Boburg, 20250516
-- Integrante 2: [ESCRIBIR NOMBRE COMPLETO AQUÍ]
+- Integrante 2: [Ignacio Staackmann, 20260294]
 
 ## Problema que resuelve
 
